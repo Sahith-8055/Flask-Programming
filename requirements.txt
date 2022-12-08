@@ -2,5 +2,5 @@ pycaret==1.0.0
 Flask==1.1.2
 Jinja2==2.11.2
 gunicorn==20.0.4
-certifi==2020.4.5.1
+certifi==2022.12.7
 itsdangerous==1.1.0
